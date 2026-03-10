@@ -1,4 +1,4 @@
-package Ibirama.sistema.ifc;
+package ifc.jose;
 
 import java.util.Date;
 

@@ -6,5 +6,11 @@ public class SitemaIfc {
         Estudante jose = new Estudante();
         Estudante joao = new Estudante();
         Estudante geovanni = new Estudante();
+
+        jose.setNome("José");
+        joao.setNome("João");
+        geovanni.setNome("Geovanni");
+        
+        System.out.println("");
     }
 }
